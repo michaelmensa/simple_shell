@@ -8,7 +8,7 @@ Simple_shell is a basic command interpreter that executes commands from the stan
 Contents
 This repo contains:
 
-shell.c 
+shell.c
 shell.h
 tokens.c
 path.c
@@ -21,6 +21,6 @@ man_1_simple_shell
 INSTALLATION
 Clone the repo and compile the .c files. Run executable
 
-Compile with 
+Compile with
 gcc -Wall -Werror -Wextra -pedantic
 
